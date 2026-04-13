@@ -1,0 +1,9 @@
+body {
+    background-color: yellow;
+    background-image: url(foto.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 150px; 
+    height: 100vh;
+    margin: 0;
+}
