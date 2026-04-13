@@ -1,0 +1,21 @@
+.s25 {
+    width: 220px;
+    padding: 15px;
+    border-radius: 0;
+    box-shadow: 0 0 10px rgb(196, 195, 195);
+    text-align: center;
+}
+
+.sekil {
+    height: 250px;
+    background-image: url('s25.jpg');
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 10px;
+}
+
+h2{
+    color: green;
+    font-weight: bold;
+}
